@@ -1,0 +1,13 @@
+body {
+    background: url("https://images5.alphacoders.com/380/380206.jpg");
+
+}
+.container {
+    text-align: center;
+    background: rgb(214, 214, 72);
+  width: 20%;
+  border: 2px solid green;
+  padding: 1%;
+  margin-left: 37%;
+  margin-top: 16%;
+}
